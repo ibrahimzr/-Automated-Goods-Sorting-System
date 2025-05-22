@@ -37,13 +37,6 @@ Watch the full demo and explanation of the system here:
 
 
 
-## 📂 Included in this Repository
-
-- 🔧 `SeparatingStation.ldr` – TIA Portal Ladder Logic file
-
-> *(You can upload the LDR file by clicking "Add file → Upload files" in your repository.)*
-
-
 
 ## 📱 Contact
 
